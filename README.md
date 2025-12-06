@@ -14,4 +14,4 @@
 # Screens
 
 ###Connect dapp with wallet hashpack
-![Connect dapp with wallet hashpack](images/01 connect wallet hashpack.png)
+![Connect dapp with wallet hashpack](images/01%20connect%20wallet%20hashpack.png)
